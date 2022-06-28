@@ -12,7 +12,7 @@ I am a multidisciplinary engineer, physycist, chemist, scientist. But, I have mu
 
 There are three basic aerodynamic conditions to control: roll, pitch, and yaw.
 
-There are four basic concepts that have been explored by others: active fins, thrust vectoring, reaction gas and pyro jets, and reaction wheels.
+There are five basic concepts that have been explored by others: active fins, thrust vectoring, reaction gas and pyro jets, reaction wheels, and drag/spoiler devices.
 
 My first application will be with active fin control.
 
